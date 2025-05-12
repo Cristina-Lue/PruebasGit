@@ -55,9 +55,9 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
     <td align="center">
       <img src="https://github.com/tuusuario.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
-      <sub><b>Tu Nombre</b></sub><br/>
+      <sub><b>Cristina Perez</b></sub><br/>
       <em>Frontend & UI Wizard 🧙‍♂️</em><br/>
-      <a href="https://github.com/tuusuario" target="_blank">@tuusuario</a>
+      <a href="https://github.com/Cristina-Lue" target="_blank">Pl240092</a>
     </td>
     <td align="center">
       <img src="https://github.com/otroUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
