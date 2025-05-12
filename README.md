@@ -1,4 +1,4 @@
-<h1 align="center">🚀 NombreDelProyecto</h1>
+<h1 align="center">🚀 Aplicación de música (usando Spotify API)</h1>
 <p align="center"><em>“Transformando ideas en soluciones que brillan”</em></p>
 
 <p align="center">
@@ -9,11 +9,20 @@
 
 ## 🧠 Sobre el proyecto
 
-**NombreDelProyecto** es una aplicación web desarrollada para [explicación corta de su propósito].  
+🎵 **NombreDelProyecto**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
+Permite a los usuarios:
+
+Autenticarse con su cuenta de Spotify
+
+Buscar canciones, artistas y álbumes
+
+Reproducir previews de temas
+
+Explorar música recomendada según sus gustos  
 Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece mantequilla.
 
-> _💡 Este proyecto fue realizado como parte del curso de [nombre del curso o contexto académico]._  
-> _Incluye backend, frontend y bases de datos en un stack moderno._
+> _💡 Este proyecto fue realizado como parte del curso de Diseño y Programación de Software Multiplataforma._  
+> _Incluye backend, frontend y uso de Apis._
 
 ---
 
