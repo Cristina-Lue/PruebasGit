@@ -35,6 +35,43 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
 > 🔥 *Interfaz con animaciones suaves y carga rápida*
 
 ---
+---
+
+## 🎨 Equipo de desarrollo
+
+> Este proyecto no se construyó solo... ¡fue forjado con pasión por estos cracks del código! 👇
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/tuusuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <br />
+      <sub><b>Tu Nombre</b></sub><br/>
+      <em>Frontend & UI Wizard 🧙‍♂️</em><br/>
+      <a href="https://github.com/tuusuario" target="_blank">@tuusuario</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/otroUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <br />
+      <sub><b>Otro Nombre</b></sub><br/>
+      <em>Backend Architect 🏗️</em><br/>
+      <a href="https://github.com/otroUsuario" target="_blank">@otroUsuario</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <br />
+      <sub><b>Nombre 3</b></sub><br/>
+      <em>Base de datos & lógica dura 🧠</em><br/>
+      <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200px" />
+  <br/>
+  <em>“Trabajo en equipo = código épico”</em>
+</p>
 
 ## 🗂️ Estructura del proyecto
 
