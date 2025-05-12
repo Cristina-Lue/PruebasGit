@@ -64,14 +64,23 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
       <em>Base de datos & lógica dura 🧠</em><br/>
       <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
     </td>
+     <td align="center">
+      <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <br />
+      <sub><b>Nombre 3</b></sub><br/>
+      <em>Base de datos & lógica dura 🧠</em><br/>
+      <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
+    </td>
+     <td align="center">
+      <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <br />
+      <sub><b>Nombre 3</b></sub><br/>
+      <em>Base de datos & lógica dura 🧠</em><br/>
+      <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200px" />
-  <br/>
-  <em>“Trabajo en equipo = código épico”</em>
-</p>
 
 ## 🗂️ Estructura del proyecto
 
