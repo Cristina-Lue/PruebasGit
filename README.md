@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre el proyecto
 
-🎵 **NombreDelProyecto**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
+🎵 **SPOTIFY**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
 Permite a los usuarios:
 
 Autenticarse con su cuenta de Spotify
