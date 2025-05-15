@@ -59,25 +59,22 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
       <a href="https://github.com/Cristina-Lue" target="_blank">Pl240092</a>
     </td>
     <td align="center">
-      <img src="https://github.com/otroUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <img src="https://github.com/Yesi-Hernandez.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
-      <sub><b>Otro Nombre</b></sub><br/>
-      <em>Backend Architect 🏗️</em><br/>
-      <a href="https://github.com/otroUsuario" target="_blank">@otroUsuario</a>
+      <sub><b>Yesenia Hernandez</b></sub><br/>
+      <a href="https://github.com/Yesi-Hernandez" target="_blank">HP240153</a>
     </td>
     <td align="center">
-      <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <img src="https://github.com/Isaaasanchezz123.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
-      <sub><b>Nombre 3</b></sub><br/>
-      <em>Base de datos & lógica dura 🧠</em><br/>
-      <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
+      <sub><b>David Segura</b></sub><br/>
+      <a href="https://github.com/Isaaasanchezz123" target="_blank">@tercerUsuario</a>
     </td>
      <td align="center">
-      <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <img src="https://github.com/bryanwii.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
-      <sub><b>Nombre 3</b></sub><br/>
-      <em>Base de datos & lógica dura 🧠</em><br/>
-      <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
+      <sub><b>Bryan Hernandez</b></sub><br/>
+      <a href="https://github.com/bryanwii" target="_blank">@tercerUsuario</a>
     </td>
      <td align="center">
       <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
