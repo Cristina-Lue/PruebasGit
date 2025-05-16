@@ -94,7 +94,7 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
 
 ## 🛠️ Instrucciones para Probar Nuevas Funcionalidades
 
-##🚀 Librerías Utilizadas
+## 🛠️ Herramientas utilizadas
 
 ## 🗂️ Estructura del proyecto
 
