@@ -68,7 +68,7 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
       <img src="https://github.com/Isaaasanchezz123.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
       <sub><b>David Segura</b></sub><br/>
-      <a href="https://github.com/Isaaasanchezz123" target="_blank">@tercerUsuario</a>
+      <a href="https://github.com/Isaaasanchezz123" target="_blank">SM232984</a>
     </td>
      <td align="center">
       <img src="https://github.com/bryanwii.png" width="100px;" alt="Foto perfil GitHub"/>
@@ -77,11 +77,10 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
       <a href="https://github.com/bryanwii" target="_blank">@tercerUsuario</a>
     </td>
      <td align="center">
-      <img src="https://github.com/tercerUsuario.png" width="100px;" alt="Foto perfil GitHub"/>
+      <img src="https://github.com/Xenia-3.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
-      <sub><b>Nombre 3</b></sub><br/>
-      <em>Base de datos & lógica dura 🧠</em><br/>
-      <a href="https://github.com/tercerUsuario" target="_blank">@tercerUsuario</a>
+      <sub><b>Xenia Sanchez</b></sub><br/>
+      <a href="https://github.com/Xenia-3" target="_blank">SM232984</a>
     </td>
   </tr>
 </table>
