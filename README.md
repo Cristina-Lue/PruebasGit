@@ -52,17 +52,24 @@ Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece 
 
 <table align="center">
   <tr>
+     </td>
     <td align="center">
-      <img src="https://github.com/Cristina-Lue.png" width="100px;" alt="Foto perfil GitHub"/>
+      <img src="https://github.com/OmarArturoGG.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
-      <sub><b>Cristina Perez</b></sub><br/>
-      <a href="https://github.com/Cristina-Lue" target="_blank">Pl240092</a>
+      <sub><b>Omar Maldonado</b></sub><br/>
+      <a href="https://github.com/OmarArturoGG" target="_blank">MG220764</a>
     </td>
     <td align="center">
       <img src="https://github.com/Yesi-Hernandez.png" width="100px;" alt="Foto perfil GitHub"/>
       <br />
       <sub><b>Yesenia Hernandez</b></sub><br/>
       <a href="https://github.com/Yesi-Hernandez" target="_blank">HP240153</a>
+    </td>
+  <td align="center">
+      <img src="https://github.com/Cristina-Lue.png" width="100px;" alt="Foto perfil GitHub"/>
+      <br />
+      <sub><b>Cristina Perez</b></sub><br/>
+      <a href="https://github.com/Cristina-Lue" target="_blank">Pl240092</a>
     </td>
     <td align="center">
       <img src="https://github.com/Isaaasanchezz123.png" width="100px;" alt="Foto perfil GitHub"/>
@@ -100,4 +107,4 @@ NombreDelProyecto/
 │   └── config/
 ├── database/          # Script y estructura de BD
 ├── .env               # Configuración de entorno
-├── README.md          # Este readme perrón 🔥
+├── README.md          
