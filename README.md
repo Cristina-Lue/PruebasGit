@@ -29,14 +29,19 @@
 
 > [!Instrucciones]
 >  Descargar en tipo zip la rama Main, que es donde se encuentra nuestro proyecto.
->  Descromprimir la carpeta una vez este descargada 
+> 
+>  Descromprimir la carpeta una vez este descargada
+> 
 >  Abrir la carpeta dentro de nuestro IDE
+> 
 >  Ejecutamos "Current File
+> 
 >  Y realizamos las pruebas de nuestros Edpoints en POSTMAN
 
 <h2>:open_file_folder: Archivo importante </h2>
 
 > [Base de Datos 📖](https://github.com/GA220455/DWFLAB/blob/Base-Datos/Tablas.txt)
+> 
 > [Documentacion 📖](https://github.com/GA220455/DWFLAB/blob/Base-Datos/Tablas.txt)
 
 
