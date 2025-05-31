@@ -1,113 +1,73 @@
-<h1 align="center">🚀 Aplicación de música (usando Spotify API)</h1>
-<p align="center"><em>“Transformando ideas en soluciones que brillan”</em></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" alt="cool gif" width="300"/>
+
+
+<div align="center" width="100">
+	    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Bienvenido%20a%20(Nuestro,repositorio)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+	
+<p align = "center">
+<img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </p>
 
----
 
-## 🧠 Sobre el proyecto
 
-🎵 **SPOTIFY**  🎵es una aplicación móvil desarrollada con la integración de la Spotify Web API.
-Permite a los usuarios:
+ 
+</div>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Autenticarse con su cuenta de Spotify
+<pre>
+🌱 grupo: DWF404 G04L
+</pre>
+<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Buscar canciones, artistas y álbumes
+> [!WARNING]
+> Para el desarrollo de este proyecto se ocupo el IDE Intellij en version Community
 
-Reproducir previews de temas
 
-Explorar música recomendada según sus gustos  
-Diseñada con 💎 calidad, ⚡ rendimiento y una interfaz tan suave que parece mantequilla.
+> [!Instrucciones]
+>  Descargar en tipo zip la rama Main, que es donde se encuentra nuestro proyecto.
+>  Descromprimir la carpeta una vez este descargada 
+>  Abrir la carpeta dentro de nuestro IDE
+>  Ejecutamos "Current File
+>  Y realizamos las pruebas de nuestros Edpoints en POSTMAN
 
-> _💡 Este proyecto fue realizado como parte del curso de Diseño y Programación de Software Multiplataforma._  
-> _Incluye backend, frontend y uso de Apis._
+<h2>:open_file_folder: Archivo importante </h2>
 
----
+> [Base de Datos 📖](https://github.com/GA220455/DWFLAB/blob/Base-Datos/Tablas.txt)
+> [Documentacion 📖](https://github.com/GA220455/DWFLAB/blob/Base-Datos/Tablas.txt)
 
-## 🚨 Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
----
+<h2> Equipo de Desarrollo<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<div>
+<div style={padding: 10px}>
+  <table style={margin: 0 auto}>
+  <tr align="center">
+    <td>Yesenia Hernández</td>
+    <td>Cristina Perez</td>
+    <td>Erika Guardado</td>
+      </tr>
+    <tr align="center">
+    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
+    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
+    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
+   </table>
+</div>
 
-## 🖼️ Demo
+<br>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIyYzE5NzcxMzNkMjZmNjUyY2EyYTljZjZhYmEzMmU5MWYwMzFiNCZjdD1n/3oKIP9LNlBmWikG1iQ/giphy.gif" alt="demo gif" width="600" />
+## 🐍 Gracias Por Ver Nuestro Repositorio
+	
+<p align = "center">
+<img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 </p>
 
-> 🔥 *Interfaz con animaciones suaves y carga rápida*
 
----
----
 
-## 🎨 Equipo de desarrollo
 
-> Este proyecto no se construyó solo... ¡fue forjado con pasión por estos cracks del código! 👇
-
-<table align="center">
-  <tr>
-     </td>
-    <td align="center">
-      <img src="https://github.com/OmarArturoGG.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Omar Maldonado</b></sub><br/>
-      <a href="https://github.com/OmarArturoGG" target="_blank">MG220764</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Yesi-Hernandez.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Yesenia Hernandez</b></sub><br/>
-      <a href="https://github.com/Yesi-Hernandez" target="_blank">HP240153</a>
-    </td>
-  <td align="center">
-      <img src="https://github.com/Cristina-Lue.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Cristina Perez</b></sub><br/>
-      <a href="https://github.com/Cristina-Lue" target="_blank">Pl240092</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Isaaasanchezz123.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>David Segura</b></sub><br/>
-      <a href="https://github.com/Isaaasanchezz123" target="_blank">SM232984</a>
-    </td>
-     <td align="center">
-      <img src="https://github.com/bryanwii.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Bryan Hernandez</b></sub><br/>
-      <a href="https://github.com/bryanwii" target="_blank">@tercerUsuario</a>
-    </td>
-     <td align="center">
-      <img src="https://github.com/Xenia-3.png" width="100px;" alt="Foto perfil GitHub"/>
-      <br />
-      <sub><b>Xenia Sanchez</b></sub><br/>
-      <a href="https://github.com/Xenia-3" target="_blank">SM232984</a>
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Instrucciones para Probar Nuevas Funcionalidades
-
-## 🛠️ Herramientas utilizadas
-
-## 🗂️ Estructura del proyecto
-
-```bash
-NombreDelProyecto/
-├── frontend/          # Aplicación React
-│   ├── src/
-│   │   ├── components/
-│   │   └── pages/
-├── backend/           # API REST con Express
-│   ├── controllers/
-│   ├── routes/
-│   └── config/
-├── database/          # Script y estructura de BD
-├── .env               # Configuración de entorno
-├── README.md          
+   
+    
