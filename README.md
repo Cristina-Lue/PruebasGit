@@ -23,12 +23,10 @@
 <hr>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-> [!WARNING]
+> [!Instrucciones]
 > Para el desarrollo de este proyecto se ocupo el IDE Intellij en version Community
 
 
-> [!Instrucciones]
-> 
 >  Descargar en tipo zip la rama Main, que es donde se encuentra nuestro proyecto.
 > 
 >  Descromprimir la carpeta una vez este descargada
