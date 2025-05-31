@@ -28,6 +28,7 @@
 
 
 > [!Instrucciones]
+> 
 >  Descargar en tipo zip la rama Main, que es donde se encuentra nuestro proyecto.
 > 
 >  Descromprimir la carpeta una vez este descargada
