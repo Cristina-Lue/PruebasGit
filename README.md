@@ -20,7 +20,7 @@
 ## 📌 Tabla de Contenidos
 - [🎥 Demo](#-demo)
 - [👥 Equipo](#-equipo)
-- [🤝 Contribución](#-contribución)
+- [🤝 Contribución](#-Cdontribución)
 - [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
 
 
@@ -70,7 +70,9 @@
 ---
 ## 🤝Contribución
 Yese2nia Hernandez - 100%
+
 Omar Maldonado - 100%
+
 Cristina - 100%
 
 ## 🗂️ Estructura del proyecto
