@@ -20,8 +20,9 @@
 ## 📌 Tabla de Contenidos
 - [🎥 Demo](#-demo)
 - [👥 Equipo](#-equipo)
-- [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
 - [🤝 Contribución](#-contribución)
+- [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
+
 
 ---
 
@@ -67,6 +68,11 @@
 </table>
 
 ---
+## 🤝contribución
+YEsenia 100
+Omar 100
+Cristina 100
+
 ## 🗂️ Estructura del proyecto
 ```bash
 OMARTIFY/
@@ -90,8 +96,4 @@ OMARTIFY/
 └── README.md               # Documentación del proyecto
 
 ---
-## 🗂️ Estructura del proyecto
-## 🤝contribución
-YEsenia 100
-Omar 100
-Cristina 100
+
