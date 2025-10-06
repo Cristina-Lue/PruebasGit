@@ -1,79 +1,94 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/> 
+  🎵 BIENVENIDO A  🎵
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/>
+</h1>
+<h3 align="center">✨ La mejor experiencia musical en tus manos ✨</h3>
 
-
-
-<div align="center" width="100">
-	    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Bienvenido%20a%20(Nuestro,repositorio)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
-	
-<p align = "center">
-<img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<p align="center">
+  <em>"Donde cada línea de código tiene ritmo y cada commit tiene armonía" 🎶</em>
 </p>
 
-
-
- 
-</div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<pre>
-🌱 grupo: DWF404 G04L
-</pre>
-<hr>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-> [!WARNING]
-> Para el desarrollo de este proyecto se ocupo el IDE Intellij en version Community
-
-
-> [!Instrucciones]
-> 
->  Descargar en tipo zip la rama Main, que es donde se encuentra nuestro proyecto.
-> 
->  Descromprimir la carpeta una vez este descargada
-> 
->  Abrir la carpeta dentro de nuestro IDE
-> 
->  Ejecutamos "Current File"
-> 
->  Y realizamos las pruebas de nuestros Edpoints en POSTMAN
-
-<h2>:open_file_folder: Archivo importante </h2>
-
-> [Base de Datos 📖](https://github.com/GA220455/DWFLAB/blob/Base-Datos/Tablas.txt)
-> 
-> [Documentacion 📖](https://github.com/GA220455/DWFLAB/blob/Base-Datos/Tablas.txt)
-
-
-
-<h2> Equipo de Desarrollo<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<div>
-<div style={padding: 10px}>
-  <table style={margin: 0 auto}>
-  <tr align="center">
-    <td>Yesenia Hernández</td>
-    <td>Cristina Perez</td>
-    <td>Erika Guardado</td>
-      </tr>
-    <tr align="center">
-    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
-    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
-    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
-   </table>
-</div>
-
-<br>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## 🐍 Gracias Por Ver Nuestro Repositorio
-	
-<p align = "center">
-<img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+---
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Cristina-Lue/PruebasGit" alt="Último commit"/>
+  <img src="https://img.shields.io/github/repo-size/Cristina-Lue/PruebasGit" alt="Tamaño del repo"/>
 </p>
 
+---
 
+## 📌 Tabla de Contenidos
+- [🎥 Demo](#-demo)
+- [👥 Equipo](#-equipo)
+- [🗂️ Estructura del proyecto](#️-estructura-del-proyecto)
+- [🤝 Contribución](#-contribución)
 
+---
 
-   
-    
+## 🎥 Demo
+
+<p align="center">
+  <img src="https://github.com/bryanwii/PROYECTO_CATEDRA_DPS/blob/demo/Demo%20(online-video-cutter.com).gif" alt="Demo animada" width="300"/>
+</p>
+
+> 🔥 *Interfaz con animaciones fluidas y tiempos de carga optimizados*
+
+---
+
+## 👥 Equipo de desarrollo
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OmarArturoGG">
+        <img src="https://github.com/OmarArturoGG.png" width="100px;" alt="Omar"/>
+        <br/>
+        <sub><b>Omar Maldonado</b></sub><br/>
+        <span>MG220764</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yesi-Hernandez">
+        <img src="https://github.com/Yesi-Hernandez.png" width="100px;" alt="Yesenia"/>
+        <br/>
+        <sub><b>Yesenia Hernandez</b></sub><br/>
+        <span>HP240153</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cristina-Lue">
+        <img src="https://github.com/Cristina-Lue.png" width="100px;" alt="Cristina"/>
+        <br/>
+        <sub><b>Cristina Perez</b></sub><br/>
+        <span>Pl240092</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🗂️ Estructura del proyecto
+```bash
+OMARTIFY/
+├── .expo/                  # Configuraciones de Expo
+├── assets/                 # Recursos multimedia
+│   ├── icons/              # Iconos de la aplicación
+│   └── sounds/             # Sonidos y efectos
+├── node_modules/           # Dependencias del proyecto
+├── screens/                # Pantallas principales
+│   ├── Reproductor.js      # Pantalla de reproducción
+│   ├── buscarSong.js       # Pantalla de búsqueda
+│   └── playList.js         # Pantalla de listas de reproducción
+├── components/             # Componentes reutilizables
+├── services/               # Servicios y lógica
+│   └── audio.js            # Manejo de grabación y reproducción
+├── App.js                  # Componente principal
+├── app.json                # Configuración de la app
+├── index.js                # Punto de entrada
+├── package.json            # Dependencias y scripts
+├── package-lock.json       # Versiones exactas de dependencias
+└── README.md               # Documentación del proyecto
+
+## 🤝contribución
+YEsenia 100
+Omar 100
+Cristina 100
