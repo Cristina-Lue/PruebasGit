@@ -29,7 +29,7 @@
 ## 🎥 Demo
 
 <p align="center">
-  <img src="https://github.com/bryanwii/PROYECTO_CATEDRA_DPS/blob/demo/Demo%20(online-video-cutter.com).gif" alt="Demo animada" width="300"/>
+//aqui el video
 </p>
 
 > 🔥 *Interfaz con animaciones fluidas y tiempos de carga optimizados*
@@ -69,33 +69,20 @@
 
 ---
 ## 🤝Contribución
-Yese2nia Hernandez - 100%
+Yesenia Hernandez - 100%
 
 Omar Maldonado - 100%
 
 Cristina - 100%
 
 ## 🗂️ Estructura del proyecto
-```bash
-OMARTIFY/
-├── .expo/                  # Configuraciones de Expo
-├── assets/                 # Recursos multimedia
-│   ├── icons/              # Iconos de la aplicación
-│   └── sounds/             # Sonidos y efectos
-├── node_modules/           # Dependencias del proyecto
-├── screens/                # Pantallas principales
-│   ├── Reproductor.js      # Pantalla de reproducción
-│   ├── buscarSong.js       # Pantalla de búsqueda
-│   └── playList.js         # Pantalla de listas de reproducción
-├── components/             # Componentes reutilizables
-├── services/               # Servicios y lógica
-│   └── audio.js            # Manejo de grabación y reproducción
-├── App.js                  # Componente principal
-├── app.json                # Configuración de la app
-├── index.js                # Punto de entrada
-├── package.json            # Dependencias y scripts
-├── package-lock.json       # Versiones exactas de dependencias
-└── README.md               # Documentación del proyecto
+
+APP/
+├── .example/                  
+├── example/                 
+│   ├── example2/              
+│   └── example1/             
+├── example/         
 
 ---
 
