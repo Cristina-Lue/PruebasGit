@@ -66,6 +66,7 @@
   </tr>
 </table>
 
+---
 ## 🗂️ Estructura del proyecto
 ```bash
 OMARTIFY/
@@ -88,6 +89,8 @@ OMARTIFY/
 ├── package-lock.json       # Versiones exactas de dependencias
 └── README.md               # Documentación del proyecto
 
+---
+## 🗂️ Estructura del proyecto
 ## 🤝contribución
 YEsenia 100
 Omar 100
