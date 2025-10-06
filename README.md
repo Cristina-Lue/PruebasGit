@@ -68,10 +68,10 @@
 </table>
 
 ---
-## 🤝contribución
-YEsenia 100
-Omar 100
-Cristina 100
+## 🤝Contribución
+Yese2nia Hernandez - 100%
+Omar Maldonado - 100%
+Cristina - 100%
 
 ## 🗂️ Estructura del proyecto
 ```bash
