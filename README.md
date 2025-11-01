@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://pixabay.com/es/gifs/caf%c3%a9-taza-pixel-arte-vapor-19613/" width="50px"/> 
+  <img src="https://media1.tenor.com/m/GaFv7nkK2HAAAAAC/cookie-good-morning.gif" width="50px"/> 
   🎵 BIENVENIDO A  🎵
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ4ZTQ5OTRmZWZlN2NmMDA1NDViZTYxNjU2YjIwOTYzN2YwZDUwMyZjdD1n/f9k1tV7HyORcngKF8v/giphy.gif" width="50px"/>
 </h1>
